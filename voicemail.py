@@ -9,7 +9,7 @@ import urllib.request
 import os
 import getopt, sys
 import platform
-
+#added a comment (practicing git)
 #counts the number of digits in a string
 def numOfDigits(inputString):
     count = 0
